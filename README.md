@@ -1,1 +1,3 @@
-# IntelegensiaBuatan
+- NAMA     : Mohamad Afandi Hidayat
+- NPM      : 213040022
+- KELAS    : A
